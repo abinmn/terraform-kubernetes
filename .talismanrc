@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: .terraform.lock.hcl
+  checksum: 96c1df0b5497c7838a99c89e43b5e8467bd2ce0349b23180c1b92cd88dac9b24
+- filename: state.tf
+  checksum: e41e79a13aadc85f47cd76448ed3c9fba3206e585319ba5c961ec96d7ad992f6
